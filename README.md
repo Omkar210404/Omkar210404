@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Omkar 👋
 
-<!--
-**Omkar210404/Omkar210404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering graduate (University of Mumbai, 2026) building AI/ML and GenAI projects.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- **Multi-AI Agent System** — FastAPI orchestrator that routes requests to specialist LLM agents *(in progress)*
+- **Customer Churn Prediction & Analytics** — scikit-learn pipeline + Streamlit dashboard *(in progress)*
+- **NewsLens** — NLP news analysis with Hugging Face transformers *(in progress)*
+- **[Roof-Mint](https://github.com/Omkar210404/Roof-Mint-)** — TypeScript project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech
+Python · FastAPI · scikit-learn · pandas · Streamlit · NLP · LLM APIs
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/omkar-nikam-6431282b4) · omkarnikamofficial21@gmail.com
