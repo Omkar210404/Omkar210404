@@ -16,9 +16,9 @@ Computer Engineering graduate building AI/ML and GenAI projects. I'm working on 
 | Project | What it is | Status |
 |---|---|---|
 | [**Multi-AI Agent System**](https://github.com/Omkar210404/Multi-AI-Agent-System) | FastAPI orchestrator routing questions to specialist LLM agents (each on its own model), with provider fallback, a safety gate and an execution trace | ✅&nbsp;Complete |
-| **Customer Churn Prediction & Analytics** | scikit-learn pipeline + Streamlit dashboard | ⏳&nbsp;Up&nbsp;next |
-| **NewsLens** | NLP news analysis with Hugging Face transformers | 🗓️&nbsp;Planned |
-| [**Roof-Mint**](https://github.com/Omkar210404/Roof-Mint-) | TypeScript project | ✅&nbsp;Live |
+| [**Customer Churn Prediction**](https://github.com/Omkar210404/Customer-Churn-Prediction) | scikit-learn churn model (logistic regression tuned for recall) with a Streamlit app: risk bands, explanations and batch CSV scoring | ✅&nbsp;Complete |
+| **NewsLens** | NLP news analysis with Hugging Face transformers | ⏳&nbsp;In&nbsp;progress |
+| [**Roof-Mint**](https://github.com/Omkar210404/Roof-Mint) | Real estate marketing platform for brokers, built with Next.js, TypeScript and Supabase | ✅&nbsp;Live |
 
 
 ## 🛠️ Skills
@@ -34,8 +34,8 @@ Computer Engineering graduate building AI/ML and GenAI projects. I'm working on 
 
 ## 🚀 Currently Building
 ![Multi-AI Agent System](https://img.shields.io/badge/Multi--AI%20Agent%20System-Complete-2ea043?style=for-the-badge)
-![Churn Prediction](https://img.shields.io/badge/Churn%20Prediction-In%20Progress-f0883e?style=for-the-badge)
-![NewsLens](https://img.shields.io/badge/NewsLens-Planned-6e7681?style=for-the-badge)
+![Churn Prediction](https://img.shields.io/badge/Churn%20Prediction-Complete-2ea043?style=for-the-badge)
+![NewsLens](https://img.shields.io/badge/NewsLens-In%20Progress-f0883e?style=for-the-badge)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Omkar210404/Omkar210404/output/github-snake-dark.svg" alt="Snake animation" />
