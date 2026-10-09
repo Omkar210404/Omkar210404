@@ -32,13 +32,13 @@ Computer Engineering graduate building AI/ML and GenAI projects. I'm working on 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
-## 📊 GitHub Stats
+## 🚀 Currently Building
+![Multi-AI Agent System](https://img.shields.io/badge/Multi--AI%20Agent%20System-Complete-2ea043?style=for-the-badge)
+![Churn Prediction](https://img.shields.io/badge/Churn%20Prediction-In%20Progress-f0883e?style=for-the-badge)
+![NewsLens](https://img.shields.io/badge/NewsLens-Planned-6e7681?style=for-the-badge)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Omkar210404&theme=dark&hide_border=true" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omkar210404&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/Omkar210404/Omkar210404/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ## 📫 Connect
