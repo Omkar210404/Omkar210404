@@ -15,7 +15,7 @@ Computer Engineering graduate building AI/ML and GenAI projects. I'm working on 
 ## 🔨 Projects
 | Project | What it is | Status |
 |---|---|---|
-| **Multi-AI Agent System** | FastAPI orchestrator routing requests to specialist LLM agents, with an execution trace | ✅  Complete |
+| **Multi-AI Agent System** | FastAPI orchestrator routing requests to specialist LLM agents, with an execution trace | ✅ Live |
 | **Customer Churn Prediction & Analytics** | scikit-learn pipeline + Streamlit dashboard | 🔨 Up Next  |
 | **NewsLens** | NLP news analysis with Hugging Face transformers | 🔨 Planning |
 | [**Roof-Mint**](https://github.com/Omkar210404/Roof-Mint-) | TypeScript project | ✅ Live |
