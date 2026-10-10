@@ -10,7 +10,7 @@ Computer Engineering graduate building AI/ML and GenAI projects. I built a 3-pro
 - 🎓 B.E. Computer Engineering, University of Mumbai (2026)
 - 🎯 Focus: AI/ML · GenAI · LLM applications
 - 📍 India
-- 💼 Open to AI/ML and software roles (fresher)
+- 💼 Open to AI/ML and software roles 
 
 ## 🔨 Projects
 | Project | What it is | Status |
