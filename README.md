@@ -13,12 +13,45 @@ Computer Engineering graduate building AI/ML and GenAI projects. I built a 3-pro
 - 💼 Open to AI/ML and software roles 
 
 ## 🔨 Projects
-| Project | What it is | Status |
-|---|---|---|
-| [**Multi-AI Agent System**](https://github.com/Omkar210404/Multi-AI-Agent-System) | FastAPI orchestrator routing questions to specialist LLM agents (each on its own model), with provider fallback, a safety gate and an execution trace | ✅&nbsp;Complete |
-| [**Customer Churn Prediction**](https://github.com/Omkar210404/Customer-Churn-Prediction) | scikit-learn churn model (logistic regression tuned for recall) with a Streamlit app: risk bands, explanations and batch CSV scoring | ✅&nbsp;Complete |
-| [**NewsLens**](https://github.com/Omkar210404/News-Lens) | NLP dashboard for news articles using Hugging Face transformers. It surfaces analysis signals and does not verify truth | ✅&nbsp;Complete |
-| [**Roof-Mint**](https://github.com/Omkar210404/Roof-Mint) | Real estate marketing platform for brokers, built with Next.js, TypeScript and Supabase | ✅&nbsp;Live |
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/Omkar210404/Multi-AI-Agent-System">Multi-AI Agent System</a></h3>
+      <p>FastAPI orchestrator that routes questions to specialist LLM agents, each on its own model, with provider fallback, a safety gate and an execution trace.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <br/><sub>✅ Complete · 110 tests · CI</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📉 <a href="https://github.com/Omkar210404/Customer-Churn-Prediction">Customer Churn Prediction</a></h3>
+      <p>Churn model tuned for recall, with a Streamlit app that shows risk bands, explanations and batch CSV scoring.</p>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      <br/><sub>✅ Complete</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📰 <a href="https://github.com/Omkar210404/News-Lens">NewsLens</a></h3>
+      <p>NLP dashboard for news articles using Hugging Face transformers. It shows analysis signals and does not verify truth.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/NLP-6e7681?style=flat-square" />
+      <br/><sub>✅ Complete</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 <a href="https://github.com/Omkar210404/Roof-Mint">Roof-Mint</a></h3>
+      <p>Real estate marketing platform for brokers, built and deployed as a live product.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <br/><sub>🟢 Live</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🧠 What my projects show
 - **Agentic AI:** orchestration, provider fallback, safety gate, request tracing, 110 automated tests and CI
