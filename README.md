@@ -26,7 +26,7 @@ Computer Engineering graduate building AI/ML and GenAI projects. I built a 3-pro
     </td>
     <td width="50%" valign="top">
       <h3>📉 <a href="https://github.com/Omkar210404/Customer-Churn-Prediction">Customer Churn Prediction</a></h3>
-      <p>Churn model tuned for recall, with a Streamlit app that shows risk bands, explanations and batch CSV scoring.</p>
+            <p>Telecom churn model tuned for recall, with a Streamlit app that shows risk bands, per-customer explanations and batch CSV scoring for whole customer lists.</p>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
