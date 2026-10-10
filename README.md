@@ -5,7 +5,7 @@
 </p>
 
 ## 👋 About
-Computer Engineering graduate building AI/ML and GenAI projects. I'm working on a 3-project portfolio covering agentic AI, classical ML, and NLP.
+Computer Engineering graduate building AI/ML and GenAI projects. I built a 3-project portfolio covering agentic AI, classical ML, and NLP.
 
 - 🎓 B.E. Computer Engineering, University of Mumbai (2026)
 - 🎯 Focus: AI/ML · GenAI · LLM applications
@@ -17,9 +17,14 @@ Computer Engineering graduate building AI/ML and GenAI projects. I'm working on 
 |---|---|---|
 | [**Multi-AI Agent System**](https://github.com/Omkar210404/Multi-AI-Agent-System) | FastAPI orchestrator routing questions to specialist LLM agents (each on its own model), with provider fallback, a safety gate and an execution trace | ✅&nbsp;Complete |
 | [**Customer Churn Prediction**](https://github.com/Omkar210404/Customer-Churn-Prediction) | scikit-learn churn model (logistic regression tuned for recall) with a Streamlit app: risk bands, explanations and batch CSV scoring | ✅&nbsp;Complete |
-| **NewsLens** | NLP news analysis with Hugging Face transformers | ⏳&nbsp;In&nbsp;progress |
+| [**NewsLens**](https://github.com/Omkar210404/News-Lens) | NLP dashboard for news articles using Hugging Face transformers. It surfaces analysis signals and does not verify truth | ✅&nbsp;Complete |
 | [**Roof-Mint**](https://github.com/Omkar210404/Roof-Mint) | Real estate marketing platform for brokers, built with Next.js, TypeScript and Supabase | ✅&nbsp;Live |
 
+## 🧠 What my projects show
+- **Agentic AI:** orchestration, provider fallback, safety gate, request tracing, 110 automated tests and CI
+- **Classical ML:** preprocessing pipelines, recall-focused tuning, explainable risk scores, batch scoring
+- **NLP:** transformer-based analysis with honest labelling of what the signals do and do not mean
+- **Full-stack:** a live Next.js + TypeScript + Supabase product
 
 ## 🛠️ Skills
 <p>
@@ -31,11 +36,6 @@ Computer Engineering graduate building AI/ML and GenAI projects. I'm working on 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-
-## 🚀 Currently Building
-![Multi-AI Agent System](https://img.shields.io/badge/Multi--AI%20Agent%20System-Complete-2ea043?style=for-the-badge)
-![Churn Prediction](https://img.shields.io/badge/Churn%20Prediction-Complete-2ea043?style=for-the-badge)
-![NewsLens](https://img.shields.io/badge/NewsLens-In%20Progress-f0883e?style=for-the-badge)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Omkar210404/Omkar210404/output/github-snake-dark.svg" alt="Snake animation" />
